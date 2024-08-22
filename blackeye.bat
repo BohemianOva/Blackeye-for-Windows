@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 cls
 del ext.bat >nul 2>&1
